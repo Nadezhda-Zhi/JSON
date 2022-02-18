@@ -1,1 +1,20 @@
-
+[
+      [
+        "Title of the bug report",
+        "Error description"
+      ],
+{
+"Project":"the name of the project where the bug exist",
+"Application component":"part or function of the project where the bug is located",
+"Version number":"software version number in which the error occurs",
+"Severity":"from S1 to S5",
+"Priority":"from P1 to P3",
+"Bug status":"bug lifecycle stage",
+"Author":"bug reporter",
+"Environment":"under what conditions was the bug found",
+"Playback steps":"sequence of actions to reproduce the bug",
+"Actual result":"the result to which the playback of the steps leads",
+"Expected result":"the result to which the playback of steps should lead",
+"Add-ons":"additional information"
+}
+]
